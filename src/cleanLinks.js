@@ -4,7 +4,7 @@ import {
     linkAlreadyCleanMessage,
     linkCleanedMessage,
     linkTypeMessage,
-} from './constants';
+} from './constants/messages';
 
 const http = 'http://';
 const https = 'https://';

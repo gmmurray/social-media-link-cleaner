@@ -4,7 +4,7 @@ const {
     linkTypeMessage,
     linkCleanedMessage,
     linkAlreadyCleanMessage,
-} = require('./constants');
+} = require('./constants/messages');
 
 describe(cleanLinks.name, () => {
     it('handles null input', () => {
