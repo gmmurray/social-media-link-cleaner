@@ -3,7 +3,13 @@
 </script>
 
 <div class="text-light p-5 rounded-3 text-center border border-light">
-    <h1 class="display-1">welcome to the social media link cleaner</h1>
+    <img
+        src="/logo_200x200.png"
+        alt="link cleaner logo"
+        height="200"
+        width="200"
+    />
+    <h1 class="display-1">welcome</h1>
     <h3>enter your link below and we will try to clean it</h3>
     <button class="btn btn-link" id="why-clean" primary>why</button>
     <Tooltip target="why-clean" top>
