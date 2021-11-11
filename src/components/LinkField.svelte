@@ -30,7 +30,7 @@
                 placeholder="enter your link here"
                 invalid={invalidInput}
             />
-            <Button on:click={handleValidate} color="primary">clean</Button>
+            <Button on:click={handleValidate} color="success">clean</Button>
             <Button on:click={handleReset} color="danger">reset</Button>
         </InputGroup>
         <div class="text-danger">{validationMessage}</div>
