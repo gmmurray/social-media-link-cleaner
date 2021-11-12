@@ -4,7 +4,7 @@
 
 <div class="text-light p-5 rounded-3 text-center border border-light m-2">
     <img
-        src="/logo_200x200.png"
+        src="./logo_200x200.png"
         alt="link cleaner logo"
         height="200"
         width="200"
